@@ -4,3 +4,4 @@ torchvision==0.26.0+cpu
 streamlit>=1.49
 pandas
 Pillow
+mediapipe
