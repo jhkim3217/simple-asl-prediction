@@ -3,5 +3,5 @@ torch==2.1.0+cpu
 torchvision==0.16.0+cpu
 streamlit>=1.49
 pandas==2.2.2
-Pillow==10.4.0
+Pillow==12.2.0
 numpy<2.0
